@@ -1,2 +1,2 @@
 # machineLearning
-machine learning projects done mostly in jupyter
+machine learning projects
